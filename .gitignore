@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+cmake-build-*/
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Local executable names used in this repo
+hello
+addition
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
